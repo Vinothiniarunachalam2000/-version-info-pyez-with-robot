@@ -1,8 +1,9 @@
 This project contains pyhton and robot framework script to extract the Junos OS version from Juniper SRX device.
+
 Files info:
 -----------
-version.py : It is a python script that connected to a Juniper srx and retrieves the OS version by using RPC
-version.robot : It is robot file which just took function from .py and run this script using test automation format
+1.version.py : It is a python script that connected to a Juniper srx and retrieves the OS version by using RPC
+2.version.robot : It is robot file which just took function from .py and run this script using test automation format
 
 How to run:
 -----------
