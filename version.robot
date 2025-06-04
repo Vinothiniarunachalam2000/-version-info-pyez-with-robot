@@ -1,5 +1,5 @@
 *** Settings ***
-Library    show.py
+Library    version.py
 
 *** Variables ***
 ${HOST}    %{SRX_HOST}     #cant show the details of setup as it is confidential
